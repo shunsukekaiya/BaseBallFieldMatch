@@ -16,7 +16,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-      // Spring Bootによるアプリケーションを起動するための処理です。
+      // Spring Bootによるアプリケーションを起動するための処理です。。
       SpringApplication.run(App.class, args);
     }
 }
